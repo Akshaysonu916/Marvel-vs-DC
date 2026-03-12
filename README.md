@@ -1,7 +1,3 @@
-Here is a **clean professional README** you can use for your GitHub repository. You can paste this directly into `README.md`.
-
----
-
 # 🎬 Movie Revenue Prediction using Machine Learning
 
 This project uses **Machine Learning** to predict the **Worldwide Gross Revenue of movies** based on different features such as budget, runtime, metascore, and opening weekend earnings.
@@ -160,12 +156,4 @@ The model predicts the **expected worldwide revenue** based on movie features su
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
 
----
 
-If you want, I can also help you add **3 things that make GitHub ML projects look much more professional**:
-
-* project badges
-* model result visualization
-* dataset preview images
-
-These make your repository look **10x better to recruiters.**
